@@ -1,0 +1,34 @@
+*{
+
+}
+/*
+h1 {
+  color: #185673;
+}
+*/
+.facts {
+/*background-color:#8DC1DA;*/
+  color: #071619;
+  float: right;
+  text-align: center;
+}
+
+.kpop {
+  background-color:#D2C7BB;
+  color: #071619;
+  float: right;
+  text-align: center;
+}
+
+#name {
+  color: purple;
+}
+
+.blocked{
+   border: 5px solid black;
+}
+
+.brain {
+  background-color:#E8DAEF;
+    color: #071619;
+}
